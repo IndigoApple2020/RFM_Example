@@ -3,7 +3,7 @@
 In this code I assigned customers into segments based on how recently they have ordered, plus the total frequency and monetary value over the customer lifetime.
 
 Recent customers are more important.
-High frequency customers are more important
+High frequency customers are more important.
 High total monetary value customers are more important.
 
 By bucketing the customers into quantiles based on these three features, you can identify the most important. With additional info, we can then unpack the characteristics of these  important customers (e.g. which income bracket, family size, age, where they live etc) to target marketing campaigns more effectively.
